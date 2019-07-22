@@ -1,0 +1,6 @@
+{
+ "dll": [
+  "aop-ui",
+  "react-router"
+ ]
+}
